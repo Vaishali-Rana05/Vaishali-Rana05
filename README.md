@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishali</h1>
 <h3 align="center">A passionate frontend React-Native developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Vaishali-Rana05/Vaishali-Rana05/assets/135837188/94098816-9f3d-45fc-bf18-cb3529c5aa34)
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif
 ">
 <p align="left"> <img src="" alt="vaishali-rana05" /> </p>
 
