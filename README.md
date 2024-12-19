@@ -1,16 +1,16 @@
 
 ![logo](https://github.com/Vaishali-Rana05/Vaishali-Rana05/blob/main/native%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vaishali</h1>
-<h3 align="center">A passionate frontend React-Native developer from India</h3>
+<h3 align="center">A passionate fullStack Web Developer developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali-rana05&label=Profile%20views&color=0e75b6&style=flat" alt="vaishali-rana05" /> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **App Development**
+- 👯 I’m looking to collaborate on **Web Development**
 
-- 🤝 I’m looking for help with **projects in React-Native**
+- 🤝 I’m looking for help with **projects in ReactJS and ExpressJS**
 
 - 📫 How to reach me **vaishalirana8888@gmail.com**
 
